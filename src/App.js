@@ -1,7 +1,9 @@
 import React from 'react';
 import './App.css';
-import Demo from './Components/Demo';
+import { Provider } from 'react-redux';
 import { store } from './redux/createStore';
+import Demo from './Components/Demo';
+
 
 class App extends React.Component {
 

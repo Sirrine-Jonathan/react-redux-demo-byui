@@ -1,6 +1,6 @@
 import {
-	
-} from '..types';
+	UP
+} from '../types';
 
 const initialState = {
 	

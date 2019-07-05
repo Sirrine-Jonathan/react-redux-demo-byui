@@ -1,5 +1,5 @@
 import {
-	   
+	UP 
 } from '../types';
 
 const up = () => ({
@@ -10,6 +10,4 @@ const applyUp = (num) => {
 	
 }
 
-module.exports = {
-	applyUp
-}
+export { applyUp }

@@ -33,6 +33,7 @@ class Demo extends React.Component{
 
 export default Demo;
 
+/*
 const mapDispatchToProps = (dispatch) => {
   return {
 	applyUp: (num) => dispatch(applyUp(num))    
@@ -46,4 +47,5 @@ const mapStateToProps = (state) => {
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(AppSwitch);
+*/
 
